@@ -1,0 +1,72 @@
+h1 {
+  font-size: 4em;
+  color: "whitesmoke";
+  background: rgba(189, 195, 189, 0.5);
+}
+
+h2 {
+  background: rgba(189, 195, 189, 0.5);
+}
+
+p {
+  font-size: 1.5em;
+}
+
+.Main-text {
+  text-align: center;
+  margin-top: 1rem;
+  margin-left: 5rem;
+  margin-right: 5rem;
+  line-height: 1.5;
+}
+
+.Side-panel-one {
+  background-image: url("/public/assets/images/bathroom-sink-1.jpg");
+  min-height: 35rem;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.Side-panel-two {
+  background-image: url("/public/assets/images/bathroom-toilet-1.jpg");
+  min-height: 41rem;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
+}
+
+.Splash-one {
+  background-image: url("/public/assets/images/kitchen-1.jpeg");
+  min-height: 33rem;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
+}
+
+.Splash-two {
+  background-image: url("/public/assets/images/kitchen-1.jpeg");
+  min-height: 33rem;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
+  padding: 15rem 0;
+}
+
+.Splash-three {
+  /* background-image: url("/public/assets/images/staircaseremodel.jpeg"); */
+  background-color: lightblue;
+  min-height: 33rem;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
+  padding: 1rem 0;
+}
+
+.Splash-four {
+  background-image: url("/public/assets/images/Building-an-Addition-2.jpeg");
+  min-height: 33rem;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
+  padding: 15rem 0;
+}
