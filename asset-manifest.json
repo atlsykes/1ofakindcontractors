@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/1ofakindcontractors/static/css/main.4f919b1d.css",
+    "main.js": "/1ofakindcontractors/static/js/main.9db38e65.js",
+    "static/js/787.e7094804.chunk.js": "/1ofakindcontractors/static/js/787.e7094804.chunk.js",
+    "static/media/Building-an-Addition-2.jpeg": "/1ofakindcontractors/static/media/Building-an-Addition-2.462b2036d8f5f05931b4.jpeg",
+    "static/media/bathroom-toilet-1.jpg": "/1ofakindcontractors/static/media/bathroom-toilet-1.c72ea1f6e774ba43d03a.jpg",
+    "static/media/bathroom-sink-1.jpg": "/1ofakindcontractors/static/media/bathroom-sink-1.4f074987d46e0ae82899.jpg",
+    "static/media/C-image-1.jpeg": "/1ofakindcontractors/static/media/C-image-1.0f293d313baed15ea403.jpeg",
+    "static/media/C-image-2.jpeg": "/1ofakindcontractors/static/media/C-image-2.fc52b21dbe0d943aa345.jpeg",
+    "static/media/C-image-3.jpeg": "/1ofakindcontractors/static/media/C-image-3.42eeb5a7ecbd0749239a.jpeg",
+    "static/media/kitchen-1.jpeg": "/1ofakindcontractors/static/media/kitchen-1.744d735079efa00551b6.jpeg",
+    "index.html": "/1ofakindcontractors/index.html",
+    "main.4f919b1d.css.map": "/1ofakindcontractors/static/css/main.4f919b1d.css.map",
+    "main.9db38e65.js.map": "/1ofakindcontractors/static/js/main.9db38e65.js.map",
+    "787.e7094804.chunk.js.map": "/1ofakindcontractors/static/js/787.e7094804.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f919b1d.css",
+    "static/js/main.9db38e65.js"
+  ]
+}
